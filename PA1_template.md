@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+## Initial Note
+In the interest of full disclosure, I completed most of this assignment during a previous attempt at the class in June. Something came up at work and I didn't finish at that point, so I have made minor updates to my previous submission, as I'm retaking the class now that I have more time. I include this note to explain why my git repository has some submissions from June.
 
 ## Some initial settings
 These suppress warning and messages that the packages spit out, set figure sizes, and make sure that everything is echoed
